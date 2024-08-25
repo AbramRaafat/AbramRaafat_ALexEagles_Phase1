@@ -1,1 +1,1 @@
-this repo contains Alex Eagles Tasks
+this repo contains Alex Eagles Machine learning Task
